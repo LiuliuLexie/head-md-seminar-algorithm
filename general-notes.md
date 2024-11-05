@@ -44,3 +44,17 @@ interviewing people: planning ur research
 - question: define your research perimeter + question YOU are interested in
 - who are you interested in? where to go, and from whom, the material can be obtained?
 - interview guides: a list of 5-7 topics you will talk about with your interlocutors. An interview guide is not a questionnaire, it's a set of themes to guide your discussion
+
+method: sampling
+| Type of sampling | Main usage in design |
+|---|------|
+| Random (pick-up participants randomly)| Get a representative sample of the population|
+|Homogeneous (select participants that corresponds to the same criteria) | Provide better focus and safer conclusions |
+|Maximal variation (select highly different participants according to one or more criteria) | Give better scope to the research results |
+|Based on your theory (depends on your questions, hypotheses)|Test an hypothesis, test your design questions|
+|Extreme cases (pick-up only weird and deviant cases)|Test the boundaries of a model or seek new possibilities|
+|According to reputation (choose participant based on recommendation by experts)|Explore more deeply|
+
+method: contact + rapport
+method: talking to people
+![interview](resources/interview.png)

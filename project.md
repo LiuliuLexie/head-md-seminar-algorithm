@@ -35,7 +35,28 @@ new specific resources:
 - [Deep Interest Evolution Network for Click-Through Rate Prediction](https://www.semanticscholar.org/paper/Deep-Interest-Evolution-Network-for-Click-Through-Zhou-Mou/70d5ceb59118334e1a6eed33a149234413147b92) by Guorui Zhou,* Na Mou,† Ying Fan, Qi Pi, Weijie Bian, Chang Zhou, Xiaoqiang Zhu, Kun Gai
 - McCoy, Scott et al. [“A Study of the Effects of Online Advertising: A Focus on Pop-Up and In-Line Ads.”](https://www.semanticscholar.org/paper/A-Study-of-the-Effects-of-Online-Advertising%3A-A-on-McCoy-Everard/ad13d3feec97c378a8c075096d318b028e1a7f9e) (2004).
 
+## Planning the Research
+1. Question: define your research perimeter + questions YOU are interested in.
+
+    **Research Perimeter**: The research aims to explore folk theories (perceptions and experiences) with algorithm-driven pop-up ads(windows) from Taobao, focusing on ads(windows) both in Taobao and other third-party applications.
+
+    **Questions**:  
+    - **User Awareness**: Do users think/view these ads as personalized or random, and what folk theories(perceptions and experiences) do they hold/have about how the ads are selected?
+   - **Relevance**: How relevant do users feel these ads are to their interests, and what factors do they believe influence this relevance (e.g., usage behavior, app context)?
+   - **Behavioral Influence**: To what extent do these pop-up ads impact user actions, in purchasing decisions or avoidance of certain apps?
+   - **Privacy Concerns**: Do users feel that these pop-ups are invasive, and what are their attitudes toward the transparency of ad algorithms?
+2. Who are you interested in? Where to go, and from whom, the material can be obtained?
+
+    **Possible interviewee**: frequent users of Taobao and third-party apps and individuals who encounter Taobao’s pop-up ads, online shopping lover
+
+    **Possible places**: the place i can find chinese people...
+
+    **Possible material**:..
+
+3. Interview guide: a list of 5-7 topics you will talk about with your interlocutors. An interview guide is not a questionnaire, it’s a set of themes to guide your discussion.
+
 ## ~~Questionnaire~~ Interview Guide
+general experience -> content and perception -> algorithmic influence -> personal impact and behavioral changes -> privacy concerns -> overall evaluation -> others
 1. Do you use Taobao? 
 1. How often do you use it? Do you like it for online shopping?
 1. Have you ever encountered Taobao pop-up ads while using other apps or Taobao itself?
@@ -51,7 +72,7 @@ new specific resources:
 11. Do you believe Taobao uses an algorithm to choose the ads you see? If yes, what do you think it’s based on?
 12. Have you ever accidently or in purpose click on those pop-up ads? If so, is that accident or in purpose? How many times or how often have you clicked on them? 
 13. Have these pop-ups ever influenced you to make a purchase or explore a product? If yes, could you share an example?
-14. Do you find yourself avoiding certain apps because of frequent pop-up ads? If so, why? Or do you exit quickly if accidently click on the pop-up ads and jump to Taobao?
+14. Do you find yourself avoiding certain apps because of frequent pop-up ads? If so, why? Or do you exit quickly if accidently click on the pop-up ads and jump to Taobao? Can you find the exit button easily? How long it takes you to exit when you meet the pop-up windows?
 15. Do you feel that these ads invade your privacy or monitor your behavior? Why or why not?
 16. Would you prefer fewer pop-ups or more control over the types of ads shown?
 17. Do you think companies like Taobao should let the user know how they select ads for users? (make the algorithm transparent)
