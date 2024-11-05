@@ -26,9 +26,9 @@ some resources related read in past media study courses:
 - [There is No Algorithm for Truth - with Tom Scott](https://www.youtube.com/watch?v=leX541Dr2rU)
 
 new specific resources:
-- [Folk theories of algorithms: Understanding digital irritation](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://journals.sagepub.com/doi/pdf/10.1177/0163443720972314) by Brita Ytre-Arne and Hallvard Moe, University of Bergen, NorwayDOI: 10.1177/0163443720972314
-- [Optimized Cost per Click in Taobao Display Advertising](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/1703.02091) by Han Zhu, Junqi Jin, Chang Tan, Fei Pan, Yifan Zeng, Han Li, Kun Gai
-- [Forced Exposure and Psychological Reactance: Antecedents and Consequences of the Perceived Intrusiveness of Pop-Up Ads](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://interruptions.net/literature/Edwards-JOA02.pdf) by Steven M. Edwards, Hairong Li, and Joo-Hyun Lee 
+- [Folk theories of algorithms: Understanding digital irritation](https://journals.sagepub.com/doi/pdf/10.1177/0163443720972314) by Brita Ytre-Arne and Hallvard Moe, University of Bergen, NorwayDOI: 10.1177/0163443720972314
+- [Optimized Cost per Click in Taobao Display Advertising](https://arxiv.org/pdf/1703.02091) by Han Zhu, Junqi Jin, Chang Tan, Fei Pan, Yifan Zeng, Han Li, Kun Gai
+- [Forced Exposure and Psychological Reactance: Antecedents and Consequences of the Perceived Intrusiveness of Pop-Up Ads](https://interruptions.net/literature/Edwards-JOA02.pdf) by Steven M. Edwards, Hairong Li, and Joo-Hyun Lee 
 - Karizat, Nadia et al. [“Algorithmic Folk Theories and Identity: How TikTok Users Co-Produce Knowledge of Identity and Engage in Algorithmic Resistance.”](https://www.semanticscholar.org/paper/Algorithmic-Folk-Theories-and-Identity%3A-How-TikTok-Karizat-Delmonaco/6f00a94d07ad0b790df6d9d9f061efcfbf4c45da) Proceedings of the ACM on Human-Computer Interaction 5 (2021): 1 - 44.
 - Eslami, Motahhare et al. [“Communicating Algorithmic Process in Online Behavioral Advertising.”](https://www.semanticscholar.org/paper/Communicating-Algorithmic-Process-in-Online-Eslami-Kumaran/5fe18d35bad4238b80a99ec8c4b98aca99a7e389) Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (2018): n. pag.
 - [Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/1803.02349)
