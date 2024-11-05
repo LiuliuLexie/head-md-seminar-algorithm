@@ -572,7 +572,7 @@ Mediation with technology
 
 **First meaning of mediation: Translation(the gaps)**
 
-![translation.png](Media,%20Technology%20and%20Society%20ff788f33551a40cab3d3ebe96bf6914d/translation.png)
+![translation.png](MTS-resources/translation.png)
 
 agents - interruptions - goals(the gaps)
 
@@ -586,7 +586,7 @@ agents: subjects; actants: more individual actions
 
 **Second meaning of mediation: Composition**
 
-![composition.png](Media,%20Technology%20and%20Society%20ff788f33551a40cab3d3ebe96bf6914d/composition.png)
+![composition.png](MTS-resources/composition.png)
 
 action is the thing that connects different actants
 
@@ -598,7 +598,7 @@ symmetry 对称性 holds in the case of fabrication as in the case of use
 
 **Third meaning of mediation: Reversible Blackboxing**
 
-![blackboxing.png](Media,%20Technology%20and%20Society%20ff788f33551a40cab3d3ebe96bf6914d/blackboxing.png)
+![blackboxing.png](MTS-resources/blackboxing.png)
 
 the Blackbox ( + reverse blackboxing)
 
@@ -614,7 +614,7 @@ Objects are a series of actions and processes. These processes (techniques) prod
 
 **Fourth meaning of mediation: Delegation 委派；委托**
 
-![4.png](Media,%20Technology%20and%20Society%20ff788f33551a40cab3d3ebe96bf6914d/4.png)
+![4.png](MTS-resources/4.png)
 
 the 2nd action act upon the first - inscription
 
@@ -622,7 +622,7 @@ technical mediation proceeds a kind of shifting.
 
 humans and nonhumans are collaborators with equal ontological 本体论的；存在论的 weight (way of being). 
 
-![5.png](Media,%20Technology%20and%20Society%20ff788f33551a40cab3d3ebe96bf6914d/5.png)
+![5.png](MTS-resources/5.png)
 
 flows
 
@@ -632,7 +632,7 @@ anitihumanism: …technology - ends without ends
 
 Rather than society, we should speak of a collective that includes nonhumans.
 
-![6.png](Media,%20Technology%20and%20Society%20ff788f33551a40cab3d3ebe96bf6914d/6.png)
+![6.png](MTS-resources/6.png)
 
 This is a reworking of sociology.
 
@@ -642,7 +642,7 @@ Defining Technical Mediation:
 
 “Responsibility for action must be shared, symmetry restored, and humanity redescribed: not as the sole transcendent cause, but as the mediating mediator” (54)
 
-![7.png](Media,%20Technology%20and%20Society%20ff788f33551a40cab3d3ebe96bf6914d/7.png)
+![7.png](MTS-resources/7.png)
 
 “at the very least, I hope to have convinced you that, if our challenge, is to be met, it will not be met by considering artifacts as things. they deserve better, the deserve to be housed in our intellectual culture as full-fledged social actors. they mediate our actions? no, they are us.”
 
