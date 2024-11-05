@@ -15,6 +15,8 @@
 ## A Reserach Question?
 How do users perceive and respond to algorithm-driven pop-up ads from Taobao, and what folk theories do they hold about the personalization and targeting mechanisms behind these ads?
 
+whether they change behavior in Taobao
+
 ## Keywords
 Taobao, E-commerce, Algorithm, Pop-up advertisements, Folk theories
 
@@ -47,7 +49,7 @@ new specific resources:
    - **Privacy Concerns**: Do users feel that these pop-ups are invasive, and what are their attitudes toward the transparency of ad algorithms?
 2. Who are you interested in? Where to go, and from whom, the material can be obtained?
 
-    **Possible interviewee**: frequent users of Taobao and third-party apps and individuals who encounter Taobao’s pop-up ads, online shopping lover
+    **Possible interviewee**: frequent users of Taobao and third-party apps and individuals who encounter Taobao’s pop-up ads, online shopping lover (online or in-person)
 
     **Possible places**: the place i can find chinese people...
 
@@ -57,7 +59,7 @@ new specific resources:
 
 ## ~~Questionnaire~~ Interview Guide
 general experience -> content and perception -> algorithmic influence -> personal impact and behavioral changes -> privacy concerns -> overall evaluation -> others
-1. Do you use Taobao? 
+1. ~~Do you use Taobao?~~
 1. How often do you use it? Do you like it for online shopping?
 1. Have you ever encountered Taobao pop-up ads while using other apps or Taobao itself?
 2. What pop-up ads you have encountered?
@@ -65,7 +67,7 @@ general experience -> content and perception -> algorithmic influence -> persona
 4. How do you usually feel about these pop-up ads from Taobao? 
 5.  Do you think the Taobao pop-up ads are relevant to your interests or needs? Why or why not?
 6. If you have encountered Taobao pop-up ads in other platforms, what platforms are they? do you think they are relevant to those other platforms, or not?
-7. Have you noticed any patterns in the type of products being advertised? If so, what patterns?
+7. Have you noticed any patterns in the type of products being advertised? If so, what patterns? -> (answer? other notices, do you think it changed your behavior, go for viarations)
 8. Do you think these ads are different based on the apps you’re using, or do they feel similar across all apps?
 9. Do you think these pop-ups are generated randomly, or are they tailored to you personally? Why do you think so?
 10. In your opinion and during your experiences with the apps, what factors might influence the type of ads you see? (e.g., your personal shopping history, the app you’re using, general trends)
@@ -82,13 +84,20 @@ general experience -> content and perception -> algorithmic influence -> persona
 
 ## Comments from NN
 
-choose one as the main direction or might get lost
+choose one as the main direction or might get lost<br>
+structure <br>
+factors <br>
+questions maybe too much, keep them as possibilities but clean them to some mains <br>
+pretest on one person<br>
 
 
-todo for 1105:
+
+todo:
 - [x]  choose one algorithm
-- [ ]  Find documents (academic papers and talks)
+- [x]  find documents (academic papers and talks)
 - [x]  start listing questions - step2 !access to people
 - [x]  keywords
 - [ ]  the visibility?
 - [ ]  start defining the methods
+- [ ] reselect and read literature reviews
+- [ ] pretest the interview
