@@ -1,6 +1,6 @@
 # Project HERE
 
-## brainstorming of algos
+## Brainstorming of Algos
 
 - algo 1: steam: store recommendations, sales/discounts during festivals; ads
 - algo 2: the RED, the recommendations according to what people around you are searching, is it keeping monitoring? why the simplist or most recognized algorithm is assuming that people who is under the same wifi signal with you (or geographically around you) like is what you might like? and the contact like? how the percent of ads in the recommendations are defined or growing?
@@ -12,7 +12,7 @@
     - popularity and trending analysis
 - algo 4: matchmaking in online co-op games
 
-## A reserach question?
+## A Reserach Question?
 How do users perceive and respond to algorithm-driven pop-up ads from Taobao, and what folk theories do they hold about the personalization and targeting mechanisms behind these ads?
 
 ## Keywords
