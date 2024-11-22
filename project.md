@@ -29,8 +29,10 @@ some resources related read in past media study courses:
 
 new specific resources:
 - [Folk theories of algorithms: Understanding digital irritation](https://journals.sagepub.com/doi/pdf/10.1177/0163443720972314) by Brita Ytre-Arne and Hallvard Moe, University of Bergen, NorwayDOI: 10.1177/0163443720972314
+    - This article analyzes how users perceive algorithms through the lens of "folk theories" based on a Norwegian survey. It identifies five folk theories about algorithms being confining, practical, reductive, intangible, and exploitative. A key point is that digital irritation, rather than resignation, often arises from algorithmic interactions, which could inspire future resistance against datafication
 - [Optimized Cost per Click in Taobao Display Advertising](https://arxiv.org/pdf/1703.02091) by Han Zhu, Junqi Jin, Chang Tan, Fei Pan, Yifan Zeng, Han Li, Kun Gai
 - [Forced Exposure and Psychological Reactance: Antecedents and Consequences of the Perceived Intrusiveness of Pop-Up Ads](https://interruptions.net/literature/Edwards-JOA02.pdf) by Steven M. Edwards, Hairong Li, and Joo-Hyun Lee 
+    - This research explores how users respond negatively to intrusive pop-up ads. It links forced ad exposure to psychological **reactance(抗拒)**, highlighting that intrusive ads may lead to feelings of manipulation and a reduction in ad effectiveness. The study emphasizes the emotional impact of ads on user behavior
 - Karizat, Nadia et al. [“Algorithmic Folk Theories and Identity: How TikTok Users Co-Produce Knowledge of Identity and Engage in Algorithmic Resistance.”](https://www.semanticscholar.org/paper/Algorithmic-Folk-Theories-and-Identity%3A-How-TikTok-Karizat-Delmonaco/6f00a94d07ad0b790df6d9d9f061efcfbf4c45da) Proceedings of the ACM on Human-Computer Interaction 5 (2021): 1 - 44.
 - Eslami, Motahhare et al. [“Communicating Algorithmic Process in Online Behavioral Advertising.”](https://www.semanticscholar.org/paper/Communicating-Algorithmic-Process-in-Online-Eslami-Kumaran/5fe18d35bad4238b80a99ec8c4b98aca99a7e389) Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (2018): n. pag.
 - [Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/1803.02349)
@@ -59,25 +61,42 @@ new specific resources:
 
 ## ~~Questionnaire~~ Interview Guide
 general experience -> content and perception -> algorithmic influence -> personal impact and behavioral changes -> privacy concerns -> overall evaluation -> others
+
+Period 1: General Experience
 1. ~~Do you use Taobao?~~
 1. How often do you use it? Do you like it for online shopping?
 1. Have you ever encountered Taobao pop-up ads while using other apps or Taobao itself?
 2. What pop-up ads you have encountered?
 3. How frequently do you see these ads? 
+
+Period 2: Feelings and Perceptions
+
 4. How do you usually feel about these pop-up ads from Taobao? 
 5.  Do you think the Taobao pop-up ads are relevant to your interests or needs? Why or why not?
 6. If you have encountered Taobao pop-up ads in other platforms, what platforms are they? do you think they are relevant to those other platforms, or not?
+
+Period 3: Advertising Algorithm and Assumptions
+
 7. Have you noticed any patterns in the type of products being advertised? If so, what patterns? -> (answer? other notices, do you think it changed your behavior, go for viarations)
 8. Do you think these ads are different based on the apps you’re using, or do they feel similar across all apps?
 9. Do you think these pop-ups are generated randomly, or are they tailored to you personally? Why do you think so?
 10. In your opinion and during your experiences with the apps, what factors might influence the type of ads you see? (e.g., your personal shopping history, the app you’re using, general trends)
 11. Do you believe Taobao uses an algorithm to choose the ads you see? If yes, what do you think it’s based on?
+
+Period 4: Behavioral Impact
+
 12. Have you ever accidently or in purpose click on those pop-up ads? If so, is that accident or in purpose? How many times or how often have you clicked on them? 
 13. Have these pop-ups ever influenced you to make a purchase or explore a product? If yes, could you share an example?
 14. Do you find yourself avoiding certain apps because of frequent pop-up ads? If so, why? Or do you exit quickly if accidently click on the pop-up ads and jump to Taobao? Can you find the exit button easily? How long it takes you to exit when you meet the pop-up windows?
+
+Period 5: Privacy and Transparency
+
 15. Do you feel that these ads invade your privacy or monitor your behavior? Why or why not?
 16. Would you prefer fewer pop-ups or more control over the types of ads shown?
 17. Do you think companies like Taobao should let the user know how they select ads for users? (make the algorithm transparent)
+
+Period 6: Personal Feelings and Suggestions
+
 18. Do you think these pop-up ads serve a positive purpose for you?
 19. Do you know there are a lot of people entertaining this pop-up windows, have you ever seen some? How do you feel about it?
 20. If you could suggest one improvement for Taobao’s pop-up ad system, what would it be?
@@ -101,3 +120,4 @@ todo:
 - [ ]  start defining the methods
 - [ ] reselect and read literature reviews
 - [ ] pretest the interview
+- [ ] important change - **fullscreen banner ad when launching the app**
