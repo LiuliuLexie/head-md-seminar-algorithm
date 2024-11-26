@@ -1,2 +1,2 @@
-# md Research Seminar - Algorithm
-Here's everything in the seminar. 
+# md Training to Research
+Here's everything in the workshop. 
