@@ -53,3 +53,6 @@ NO PAIN is a sensory experience crafted for those who value empowerment, self-ca
 ## 24-11-27 at ECAL
 
 ### The past through the binoculars, Sarah Klein
+
+### Blueprint for a “black methodology”, Joël Vacheron
+[automated photography](https://automated-photography.ch/)
