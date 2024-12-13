@@ -190,12 +190,12 @@ This reaction aligns with a phenomenon known as 'Psychological Reactance.' under
 ---
 
 ### 02:41 - 02:55 — Transition [46 words]
-To dig deeper, I asked this interviewee if her feelings would change if Taobao made the algorithm behind these ads more transparent. After some hesitation, she responded: 'xxxxx' (e.g., 'I don't know... even if they told me how it works, I'd probably still doubt the product.').
+To dig deeper, I asked this interviewee if her feelings would change if Taobao made the algorithm behind these ads more transparent. After some hesitation, she responded: 'xxxxx' (e.g., 'I don't know... even if they told me how it works, I'd probably still doubt the product.' 被打扰，被中断浏览行为。。购物的乐趣 主被动，但如果在淘宝，会点进去看).
 
 ---
 
 ### 02:56 - 04:20 — Analysis: Forced Exposure & Findings [136 words]
-This hesitation pushes the topic. Why does the user still feel offended after acknowledging the user-assisting algorithm? Is it not the presence of the ad that annoys the users but the way it violates the Sense of Boundary between the user and the algorithm? When algorithms act too aggressively or assume too much control, it breaks the subtle balance between active and passive engagement, and that is the moment leading to negative emotions, distrust, and even rebellion.
+This hesitation and assumption push the topic. Why does the user still feel offended after acknowledging the user-assisting algorithm? What's the difference bwtween the timing? Is it not the presence of the ad that annoys the users but the way it violates the Sense of Boundary between the user and the algorithm? When algorithms act too aggressively or assume too much control, it breaks the subtle balance between active and passive engagement, and that is the moment leading to negative emotions, distrust, and even rebellion. 让用户感觉主动选择权利被侵犯
 
 We can include this relationship as an informal explanation into the 'folk theories'. When an algorithm crosses an invisible boundary, it disrupts their trust and comfort with the platform. This is why, even with transparency, the sense of being controlled or manipulated by the algorithm can persist, affecting how users engage with the platform and even the advertised products.
 
