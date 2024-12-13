@@ -166,50 +166,35 @@ Reason for my subject: the very active one, the active and passive
 ### 00:00 - 00:15 - Opening
 (Audio jingle plays)
 
----
-
 ### 00:16 - 00:45 — Introduction + 00:46 - 01:20 — Research Context/Reason [170 words]
 Hello everyone, welcome to the new episode of "SuperNova, algorithms beyond us" podcast series, where we explore the fascinating world of algorithms—I am focusing, specifically, on the Taobao fullscreen banner ad showing up on the launching page of other apps.
 
-If you live in China, or you are using some Chinese apps, you will find Taobao fullscreen ads are everywhere on other Chinese apps such as Weibo, the community app or Wangyi, an email app. Acting as one of the most intrusive forms of digital advertising, these ads don't wait for your input; the algorithm behind it don't need a search bar, filters, or any user action—they just jump out at you, demanding your attention at the moment you open apps. This makes them stand out among other algorithms with the highest level of activeness.  
+If you live in China, or you are using some Chinese apps, you will find Taobao fullscreen ads are everywhere on other Chinese apps such as Weibo, the community app or Wangyi, an email app. Acting as one of the most intrusive forms of digital advertising, these ads don't wait for your input; the algorithm behind it don't need a search bar, filters, or any user action—they just jump out at you, demanding your attention at the moment you open apps. This makes them stand out among other algorithms with the highest level of activeness.
 
-But how do users actually experience these ads? What do they think about them? And what does this tell us about the folk's relationship with algorithms? In this episode, we'll try to find some answers.
-
----
+But how do users actually experience these ads? What do they think about the gesture of the appearance of the algorithms? And what does this tell us about the folk's relationship with them? In this episode, we'll try to find some answers.
 
 ### 01:21 - 01:50 — User Experience Overview [72 words]
-When I interviewed users about these ads, an interesting trend emerged: most didn't pay attention to them. One interviewee even said, 'xxxxx' (e.g., 'I never let the loading window finish. I always skip it before the ad fully appears. I use the 3 seconds to daze. Honestly, I never really notice what's being advertised.'). This highlights a kind of passive resistance to these intrusive ads, where users simply bypass them whenever possible.
-
----
+When I interviewed users about these ads, an interesting trend emerged: most didn't pay attention to them. One interviewee even said, 'xxxxx' (e.g., 'I never let the loading window finish. I always skip it before the ad fully appears. I use the 3 seconds to daze. Honestly, I never really notice what's being advertised.'). This highlights a kind of passive resistance to these intrusive algorithms, where users simply bypass the ads whenever possible to avoid seeing them.
 
 ### 01:51 - 02:40 — Excerpt 1: User Reaction [112 words]
 But not everyone totally ignores these ads. One interviewee described herself as 'rebellious' in her reaction to those banners. 'xxxxx' (e.g., 'Whenever I see these ads, although i know they promote things based on my need, I feel like they're forcing me into something. It actually makes me trust the product less. xxxxx').
 
-This reaction aligns with a phenomenon known as 'Psychological Reactance.' under forced exposure. In a related study, the researchers explore how intrusive ads can provoke people's negative reaction to feeling manipulated, explaining that when people feel coerced, they push back, sometimes by rejecting the message or product entirely. It's interesting how such strong resistance can emerge from something as simple as an ad whose algorithm originally has an opposite purpose.
-
----
+This reaction aligns with a phenomenon known as 'Psychological Reactance.' under forced exposure. In a related study, the researchers explore how intrusive ads can provoke people's negative reaction to feeling manipulated, explaining that when people feel coerced, they push back, sometimes by rejecting the message or product entirely. It's interesting how such strong resistance can emerge from something as simple as an ad whose algorithm originally had an opposite purpose.
 
 ### 02:41 - 02:55 — Transition [46 words]
-To dig deeper, I asked this interviewee if her feelings would change if Taobao made the algorithm behind these ads more transparent. After some hesitation, she responded: 'xxxxx' (e.g., 'I don't know... even if they told me how it works, I'd probably still doubt the product.' 被打扰，被中断浏览行为。。购物的乐趣 主被动，但如果在淘宝，会点进去看).
-
----
+To dig deeper, I asked this interviewee if her feelings would change if Taobao made the algorithm behind these ads more transparent. After some hesitation, she responded: 'xxxxx' (e.g., 'I don't know... even if they told me how it works, I'd probably still doubt the product.').
 
 ### 02:56 - 04:20 — Analysis: Forced Exposure & Findings [136 words]
-This hesitation and assumption push the topic. Why does the user still feel offended after acknowledging the user-assisting algorithm? What's the difference bwtween the timing? Is it not the presence of the ad that annoys the users but the way it violates the Sense of Boundary between the user and the algorithm? When algorithms act too aggressively or assume too much control, it breaks the subtle balance between active and passive engagement, and that is the moment leading to negative emotions, distrust, and even rebellion. 让用户感觉主动选择权利被侵犯
+This hesitation and assumption push the topic. Why does the user still feel offended after acknowledging the user-assisting algorithm? What's the difference between the timing? It's NOT the presence of the algorithm that annoys the users, BUT, as pop-up ads, the algorithm violates the Sense of Boundary between the user and itself. When algorithms act too aggressively or assume too much control, it breaks the subtle balance between active and passive engagement, and that is the moment leading to negative emotions, distrust, and even rebellion.
 
 We can include this relationship as an informal explanation into the 'folk theories'. When an algorithm crosses an invisible boundary, it disrupts their trust and comfort with the platform. This is why, even with transparency, the sense of being controlled or manipulated by the algorithm can persist, affecting how users engage with the platform and even the advertised products.
 
----
-
 ### 04:21 - 05:00 — Conclusion + Outro [101 words]
-In conclusion, Taobao's fullscreen banner ads cast light on the complex tension between algorithmic efficiency and user perception. While the algorithm is designed to anticipate user needs, its intrusive appearance backfires. This demonstrates how crucial it is for algorithms to respect user boundaries and maintain a balance between active intervention and passive engagement. 
-
-As we continue to navigate this algorithm-driven world, the challenge remains: What are the user boundaries? How can the algorithm maintain a balance between active intervention and passive engagement? Where, the algorithms beyond us, should go?  
+In conclusion, Taobao's fullscreen banner ads cast light on the complex tension between algorithmic efficiency and user perception. While the algorithm is designed to anticipate user needs, its intrusive gesture as the banner ads backfires. As we continue to navigate this algorithm-driven world, the challenge remains: What are the user boundaries? How can the algorithm maintain a balance between active intervention and passive engagement? Where, the algorithms beyond us, should go?
 
 Thank you for joining me on this episode. See you next time!
 
 (Outro jingle plays)
-
 
 ## Comments from NN
 a little bit 
