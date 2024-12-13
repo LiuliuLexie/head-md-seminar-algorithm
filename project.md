@@ -28,16 +28,27 @@ some resources related read in past media study courses:
 - [There is No Algorithm for Truth - with Tom Scott](https://www.youtube.com/watch?v=leX541Dr2rU)
 
 new specific resources:
-- [Folk theories of algorithms: Understanding digital irritation](https://journals.sagepub.com/doi/pdf/10.1177/0163443720972314) by Brita Ytre-Arne and Hallvard Moe, University of Bergen, NorwayDOI: 10.1177/0163443720972314
+- **[Folk theories of algorithms: Understanding digital irritation](https://journals.sagepub.com/doi/pdf/10.1177/0163443720972314) by Brita Ytre-Arne and Hallvard Moe, University of Bergen, NorwayDOI: 10.1177/0163443720972314**
     - This article analyzes how users perceive algorithms through the lens of "folk theories" based on a Norwegian survey. It identifies five folk theories about algorithms being confining, practical, reductive, intangible, and exploitative. A key point is that digital irritation, rather than resignation, often arises from algorithmic interactions, which could inspire future resistance against datafication
 - [Optimized Cost per Click in Taobao Display Advertising](https://arxiv.org/pdf/1703.02091) by Han Zhu, Junqi Jin, Chang Tan, Fei Pan, Yifan Zeng, Han Li, Kun Gai
-- [Forced Exposure and Psychological Reactance: Antecedents and Consequences of the Perceived Intrusiveness of Pop-Up Ads](https://interruptions.net/literature/Edwards-JOA02.pdf) by Steven M. Edwards, Hairong Li, and Joo-Hyun Lee 
+- **[Forced Exposure and Psychological Reactance: Antecedents and Consequences of the Perceived Intrusiveness of Pop-Up Ads](https://interruptions.net/literature/Edwards-JOA02.pdf) by Steven M. Edwards, Hairong Li, and Joo-Hyun Lee**
     - This research explores how users respond negatively to intrusive pop-up ads. It links forced ad exposure to psychological **reactance(抗拒)**, highlighting that intrusive ads may lead to feelings of manipulation and a reduction in ad effectiveness. The study emphasizes the emotional impact of ads on user behavior
 - Karizat, Nadia et al. [“Algorithmic Folk Theories and Identity: How TikTok Users Co-Produce Knowledge of Identity and Engage in Algorithmic Resistance.”](https://www.semanticscholar.org/paper/Algorithmic-Folk-Theories-and-Identity%3A-How-TikTok-Karizat-Delmonaco/6f00a94d07ad0b790df6d9d9f061efcfbf4c45da) Proceedings of the ACM on Human-Computer Interaction 5 (2021): 1 - 44.
 - Eslami, Motahhare et al. [“Communicating Algorithmic Process in Online Behavioral Advertising.”](https://www.semanticscholar.org/paper/Communicating-Algorithmic-Process-in-Online-Eslami-Kumaran/5fe18d35bad4238b80a99ec8c4b98aca99a7e389) Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (2018): n. pag.
 - [Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/1803.02349)
 - [Deep Interest Evolution Network for Click-Through Rate Prediction](https://www.semanticscholar.org/paper/Deep-Interest-Evolution-Network-for-Click-Through-Zhou-Mou/70d5ceb59118334e1a6eed33a149234413147b92) by Guorui Zhou,* Na Mou,† Ying Fan, Qi Pi, Weijie Bian, Chang Zhou, Xiaoqiang Zhu, Kun Gai
-- McCoy, Scott et al. [“A Study of the Effects of Online Advertising: A Focus on Pop-Up and In-Line Ads.”](https://www.semanticscholar.org/paper/A-Study-of-the-Effects-of-Online-Advertising%3A-A-on-McCoy-Everard/ad13d3feec97c378a8c075096d318b028e1a7f9e) (2004).
+- **McCoy, Scott et al. [“A Study of the Effects of Online Advertising: A Focus on Pop-Up and In-Line Ads.”](https://www.semanticscholar.org/paper/A-Study-of-the-Effects-of-Online-Advertising%3A-A-on-McCoy-Everard/ad13d3feec97c378a8c075096d318b028e1a7f9e) (2004).**
+    1. Perceived Intrusiveness and Task Disruption:
+   - Pop-up ads are found to be significantly more intrusive than in-line ads. This intrusiveness leads to negative attitudes toward both the ads and the advertiser. The study suggests that this disruptiveness stems from the forced attention and interruption of user tasks.
+   - In contrast, in-line ads, which are embedded within the content, tend to be less disruptive and more favorably received.
+    2. Cognitive Load and User Experience:
+   - Pop-up ads impose a higher cognitive load on users, negatively affecting their ability to complete tasks efficiently. The study explores the psychological consequences of this, including frustration and diminished user satisfaction.
+    3. Implications for Advertisers:
+   - The findings highlight the trade-off advertisers face between grabbing attention (with intrusive pop-ups) and maintaining a positive user experience. Intrusive ads may achieve short-term visibility but can harm long-term brand perception and user trust.
+    4. Behavioral Responses to Ads:
+   - Users often react to pop-ups with immediate avoidance behaviors, such as closing or blocking the ads, reflecting their active aversion to such formats. This contrasts with more passive engagement seen with in-line ads.
+    5. Design Recommendations:
+   - The study advocates for ad designs that balance visibility with minimal user disruption. 
 
 ## Planning the Research
 1. Question: define your research perimeter + questions YOU are interested in.
@@ -120,4 +131,73 @@ todo:
 - [ ]  start defining the methods
 - [ ] reselect and read literature reviews
 - [ ] pretest the interview
-- [ ] important change - **fullscreen banner ad when launching the app**
+- [ ] important change - **Taobao fullscreen banner ad showing up on other apps**
+
+## Sketch Structure
+Reason for my subject: the very active one, the active and passive 
+
+|Time Code|Sequence name|Content|Type of content|
+|--|--|--|--|
+00:00 - 00:15|	Opening	|Sound opening|	Audio jingle
+00:16 - 00:45|	Introduction	|Brief overview of the podcast theme: "Exploring the algorithms behind Taobao's ~~(pop-up)~~ *fullscreen banner ad when launching the app* ads and their impact on users"	|my voice
+00:46 - 01:20|	Research Context	|Brief explanation of what is this algo and its presence in daily life, and why this is interesting (it is a very active one, no need of any searchbar input or filter attached, it just jumps to you, the highest level of agency in all algorithms) 	|my voice
+01:21 - 01:45	|Excerpt 1: User Experience/ Reaction|	A clip from an interviewee describing their experience with Taobao ads|	Interviewee audio
+01:46 - 02:30	|Analysis: Forced Exposure|	**Reference "Forced Exposure and Psychological Reactance" about the "psychological reactance(抗拒)"** to explain why intrusive ads like pop-ups provoke resistance. Compare this with the interviewee's sentiments.|my voice
+02:31 - 02:55|	Excerpt 2: Folk Theories|	Another clip where an interviewee speculates about how these ads are personalized or refreshed	and their attitudes on the transparancy and assumptions|Interviewee audio
+02:56 - 03:40|	Analysis: Algorithmic Personalization|	Discuss the concept of "folk theories" of algorithms, **referencing "folk theories"**. Explain how user assumptions match or differ from these theories.	|my voice
+03:41 - 04:10|	Behavioral Change|	conclude findings from interviews about whether pop-ups influenced behavior, such as making purchases or avoiding platforms.|	my voice
+04:11 - 04:45|	Comparative Analysis(?)	|Relate to other algorithms (e.g., TikTok or Spotify) and discuss similarities or differences in user response and personalization mechanisms.|	my voice
+04:46 - 05:00|	Outro|	summarize insights and pose an open question about balancing effective advertising with user satisfaction	|Audio jingle
+
+(2nd Version)
+|Time Code|Sequence name|Content|Type of content|
+|--|--|--|--|
+00:00 - 00:15|	Opening	|Sound opening|	Audio jingle
+00:16 - 00:45|	Introduction	|Brief overview of the podcast theme: "Exploring the algorithms behind Taobao's fullscreen banner ads when launching the app and their impact on users"	|my voice
+00:46 - 01:20|	Research Context	|Brief explanation of what is this algo and its presence in daily life, and why this is interesting (it is a very active one, no need of any searchbar input or filter attached, it just jumps to you, the highest level of agency in all algorithms)  	|my voice
+01:21 - 01:50	|User Experience Overview|	Overview of i asked all the interviewees about their expeirience, opinion... but all of them were not really paying attention to the ads. One of them even says he never let the loading window jumps/full loaded and he never really see the ads.He responses: "xxxxx (interviewee voice)" (e.g., ignoring the ads, skipping loading windows)|	Interviewee audio
+01:51 - 02:40	|Excerpt 1: User Reaction|	highlight the interviewee describing herself as "Rebellious" and doubt this product,"xxxxxx (interviewee voice)" when she see the ads, she would be more negative. reference. **Reference "Forced Exposure and Psychological Reactance" about the "psychological reactance(抗拒)"** to explain why intrusive ads like pop-ups provoke resistance|my voice
+02:41 - 02:55|	Transition|	i asked her if Taobao make the algorithm transparent, will she still be doubtable of the product, she hesitated. "xxxxxx(interviewee voice)" |Interviewee audio
+02:56 - 04:20|	Analysis: Forced Exposure & Findings|	findings on how the feeling of the active and passive, feelings of getting offended or not, the break of the Sense of Boundary of the algorithm is important to the user behavior and reaction, **Reference "Forced Exposure and Psychological Reactance"** to explain negative emotions toward intrusive ads, linking to user behavior and "folk theories" insights. |my voice
+04:21 - 05:00|	Outro|	Summary of insights, highlighting the tension between algorithmic effectiveness and user satisfaction, closing with an open question	|Audio jingle
+
+## Script [should be ~ 750]
+### 00:00 - 00:15 - Opening
+(Audio jingle plays)
+
+### 00:16 - 00:45 — Introduction + 00:46 - 01:20 — Research Context/Reason [167 words]
+Hello everyone, welcome to the new episode of "SuperNova, algorithms beyond us" podcast series, where we explore the fascinating world of algorithms—I am focusing, specifically, on the Taobao fullscreen banner ad showing up on the launching page of other apps. 
+
+If you live in China, or you are using some Chinese apps, you will find Taobao fullscreen ads are everywhere on other Chinese apps such as Weibo, the community app or Wangyi, an email app. Acting as one of the most intrusive forms of digital advertising, these ads don’t wait for your input; they don’t need a search bar, filters, or any user action—they just jump out at you, demanding your attention at the moment you open apps. This makes them stand out among other algorithms with the highest level of activeness. 
+But how do users actually experience these ads? What do they think about them? And what does this tell us about the folk's relationship with algorithms? In this episode, we’ll try to find some answers.
+
+### 01:21 - 01:50 — User Experience Overview [72 words]
+When I interviewed users about these ads, an interesting trend emerged: most didn’t pay attention to them. One interviewee even said, 'xxxxx' (e.g., 'I never let the loading window finish. I always skip it before the ad fully appears. I use the 3 seconds to daze. Honestly, I never really notice what’s being advertised.'). This highlights a kind of passive resistance to these intrusive ads, where users simply bypass them whenever possible.
+
+### 01:51 - 02:40 — Excerpt 1: User Reaction<br>
+But not everyone totally ignores these ads. One interviewee described herself as 'rebellious' in her reaction to those banners. 'xxxxx' (e.g., 'Whenever I see these ads, I feel like they’re forcing me into something. It actually makes me trust the product less. xxxxx').
+
+//
+
+This reaction aligns with a psychological phenomenon known as 'reactance.' The Forced Exposure Theory explains that when people feel coerced or manipulated, they push back, sometimes by rejecting the message or product entirely. It’s fascinating how such strong resistance can emerge from something as simple as an ad.
+
+### 02:41 - 02:55 — Transition
+To dig deeper, I asked this interviewee if her feelings would change if Taobao made the algorithm behind these ads more transparent. After some hesitation, she responded: 'xxxxx' (e.g., 'I don’t know... even if they told me how it works, I’d probably still doubt the product.').
+
+### 02:56 - 04:20 — Analysis: Forced Exposure & Findings
+This hesitation reveals a deeper issue. It’s not just the presence of the ad but the way it violates the Sense of Boundary between the user and the algorithm. Users feel offended when algorithms act too aggressively or assume too much control, breaking the subtle balance between active and passive engagement.
+
+Research on Forced Exposure and Psychological Reactance shows that this perceived intrusion can lead to negative emotions, distrust, and even rebellion. And this ties back to the concept of 'folk theories'—informal explanations users create to make sense of algorithmic behavior. These theories shape how users interpret their experiences, and when an algorithm crosses an invisible boundary, it disrupts their trust and comfort with the platform.
+
+This is why, even with transparency, the sense of being controlled or manipulated by an ad can persist, affecting how users engage with the platform and even the advertised products."
+
+### 04:21 - 05:00 — Conclusion + Outro
+In conclusion, Taobao’s fullscreen banner ads illustrate the tension between algorithmic effectiveness and user satisfaction. While these ads may grab attention, their intrusive nature can provoke resistance and distrust, shaping how users perceive both the platform and its products.
+
+So, how do we strike a balance? How can algorithms respect user boundaries while achieving their goals? Thanks for joining me on this exploration—until next time!
+
+(Outro jingle plays)
+
+## Comments from NN
+a little bit 
+next episode about transtrancy...

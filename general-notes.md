@@ -1,6 +1,6 @@
 # md research seminar
 
-## 1104
+## 2024-11-04
 
 ethnographic research - ethnography
 
@@ -39,7 +39,7 @@ Method：在这个个人项目中，每个人将选择一个service，使用访�
 
 ![schedule](resources/schedule.png)
 
-## 1105
+## 2024-11-05
 interviewing people: planning ur research
 - question: define your research perimeter + question YOU are interested in
 - who are you interested in? where to go, and from whom, the material can be obtained?
@@ -58,3 +58,18 @@ method: sampling
 method: contact + rapport
 method: talking to people
 ![interview](resources/interview.png)
+
+## 2024-12-2
+podcast production: intro - body(main part, where you talk about interview excerpt and  reference to paper) - outro 
+
+|Time Code|Sequence name|Content|Type of content|
+|--|--|--|--|
+00:00 - 00:18|Opening|Sound opening|Audio jingle
+00:18 - 00:56|Introduction|My voice|Audio recording
+00:57 - 1:22|Excerpt 1|Voice of informer|Audio recording
+...|...|...|...
+
+how to use "the" academic reference in the podcast
+- refer to a general concept (algorithemic imaginary, blackbox), a concpet that can explain something one of the interviewee told you about, etc. 
+- refer to another study, in order to make a comparison between "your" algorithm and another one, or between a result from something
+else and your study
