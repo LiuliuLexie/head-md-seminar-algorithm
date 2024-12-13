@@ -1,2 +1,2 @@
-# md Training to Research
+# md Seminar Algorithm
 Here's everything in the workshop. 
